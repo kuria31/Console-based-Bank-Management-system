@@ -1,0 +1,12 @@
+
+# Ignore the .env file for seneitive data
+.env
+
+# Ignore compiled Java class files
+.class
+
+# ignor the bin directory
+bin/
+
+# ignore IDE files
+.vscode/
